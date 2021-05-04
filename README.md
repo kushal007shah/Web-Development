@@ -10,3 +10,8 @@ Dice Game is created using HTML,CSS,JS.
 Drum kit is a fun game to play with the drum sounds with variety of instruments and their sounds added.
 The game works with clicks and even keyboard presses.
 This is made using HTML,CSS,jQuery.
+
+
+The famous Simon game is here!!!
+This is a complete Simon game having different levels of progress, beautiful and simple UI.
+This is done using HTML,CSS,jQuery.
